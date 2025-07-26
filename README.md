@@ -1,3 +1,3 @@
 ![Alt text](GIT/CodeSignal.png)
 ![Alt text](SDLC/agile-quiz-score.png)
-![Alt text](GIT/simplelearncertificate.png)
+![Alt text](GIT/simplelearn_certificate.png)
